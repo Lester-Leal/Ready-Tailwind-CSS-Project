@@ -60,3 +60,5 @@ This repository are for those newbie in TailwindCSS that can't install the lates
 | Command | Description |
 | --- | --- |
 | `npm run build:tailwind` | start running the tailwindcss |
+ 
+ Make sure programs are *run as Administrator*
