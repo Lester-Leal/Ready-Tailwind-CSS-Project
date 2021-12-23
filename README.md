@@ -50,7 +50,8 @@ This repository are for those newbie in TailwindCSS that can't install the lates
   
   | Command | Description |
 | --- | --- |
-| `npm install -D tailwindcss postcss autoprefixer`, `npx tailwindcss init` | If tailwind.config.js is missing enter this on vsc *Terminal* |
+| `npm install -D tailwindcss postcss autoprefixer` | Installation of TailwindCSS *PostCSS* |
+| `npx tailwindcss init` | Adding *tailwind.config.js* To your project |
 
 <h1>To Start Designing your Website with TailwindCSS</h1>
   run this command on Terminal
