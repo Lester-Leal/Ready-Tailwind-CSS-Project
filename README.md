@@ -46,11 +46,11 @@ This repository are for those newbie in TailwindCSS that can't install the lates
 
  For the official TailwindCSS Intellisense Install it <a href="https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss">Here</a>
  
- <b>*NOTE* You must open the Visual Studio Code as *Administrator* To avoid Dependencies being restricted from installations<b>
+ <b>*NOTE* You must open the Visual Studio Code as *Administrator* To avoid Dependencies being restricted from installations</b>
   
   | Command | Description |
 | --- | --- |
-| `npm install -D tailwindcss postcss autoprefixer` | Installation of TailwindCSS *PostCSS* |
+| `npm install -D tailwindcss postcss autoprefixer` | Installation of TailwindCSS *PostCSS*, Node_Modules |
 | `npx tailwindcss init` | Adding *tailwind.config.js* To your project |
 
 <h1>To Start Designing your Website with TailwindCSS</h1>
