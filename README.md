@@ -39,3 +39,23 @@ This repository are for those newbie in TailwindCSS that can't install the lates
 | `git clone "HTTPS"` | clone this project copy the link below and paste it where it says "HTTPS" remove the 2 quotes|
 *https://github.com/Lester-Leal/Ready-Tailwind-CSS-Project.git*
 
+ 
+ <b>AFTER DONE CLONING THE PROJECT WE WILL NOW OPEN THIS ON VISUAL STUDIO CODE</b>
+ 
+ # <h3>Visual Studio Code</h3>
+
+ For the official TailwindCSS Intellisense Install it <a href="https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss">Here</a>
+ 
+ <b>*NOTE* You must open the Visual Studio Code as *Administrator* To avoid Dependencies being restricted from installations<b>
+  
+  | Command | Description |
+| --- | --- |
+| `npm install -D tailwindcss postcss autoprefixer`, `npx tailwindcss init` | If tailwind.config.js is missing enter this on vsc *Terminal* |
+
+<h1>To Start Designing your Website with TailwindCSS</h1>
+  run this command on Terminal
+  
+  
+| Command | Description |
+| --- | --- |
+| `npm run build:tailwind` | start running the tailwindcss |
